@@ -1,9 +1,12 @@
-Overview
+**Overview**
+
 This project explores a relational hospital database using MySQL, with the goal of extracting meaningful clinical and operational insights from structured medical records.
 The database contains patient demographics, hospital admission records, doctor information, and geographic data — making it a realistic, multi-table environment to practice and demonstrate advanced SQL skills.
 The work spans 34 queries ranging from foundational data retrieval to complex multi-table joins, aggregations, window-style logic, and calculated clinical metrics such as BMI classification.
 
-Key Analysis
+**Key Analysis**
+
+
 Patient Demographics
 Filtering patients by gender, allergies, name patterns, weight ranges, and birth year — building a foundational understanding of the patient population.
 Admission Patterns
