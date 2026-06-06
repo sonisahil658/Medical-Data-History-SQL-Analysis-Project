@@ -17,4 +17,4 @@ Ranking admission volume by day of the month, grouping patients into weight band
 
 Author
 Sahil Soni
-[GitHub](https://github.com/sonisahil658) · [LinkedIn](www.linkedin.com/in/sahil-soni-6b64921b4)
+[GitHub](https://github.com/sonisahil658) · [LinkedIn](https://www.linkedin.com/in/sahil-soni-6b64921b4/)
